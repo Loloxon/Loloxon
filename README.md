@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loloxon&langs_count=8&layout=compact)](https://github.com/Loloxon/github-readme-stats)
-![Loloxon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loloxon&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loloxon&hide=starlark,shell,Makefile,CMake&layout=compact&theme=tokyonight)](https://github.com/Loloxon/github-readme-stats)
+![Loloxon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loloxon&show_icons=true&theme=merko)
