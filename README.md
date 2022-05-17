@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 #### Some stuff about me:
 - 🌱 I’m currently learning Scala cuz this language is amazing
-- :calling: Needto reach me? Write me on discord: Loloxon#6617
+- :calling: Need to reach me? Write me on discord: Loloxon#6617
 - :computer: Wanna play League of Legends together? I have same nickname there.
 
 
